@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "01",
+    "title" : "Internet",
+    "serviceName" : "Easy Surfing",
+    "serviceList" : ["Up to 50Mbps", "Night Turbo-Speed", "WiFi router", "Unlimited devices"],
+    "price" : "24.99"
+  },
+  {
+    "id" : "02",
+    "title" : "TV",
+    "serviceName" : "Impression",
+    "serviceList" : ["200+ chanels", "5 adult chanels", "TV-Box", "Unlimited rooms"],
+    "price" : "18.00"
+  },
+  {
+    "id" : "03",
+    "title" : "IInternet + TV",
+    "serviceName" : "Home Comfort",
+    "serviceList" : ["Up to 100Mbps", "200+ chanels", "WiFi router", "Unlimited devices"],
+    "price" : "24.99"
+  },
+  {
+    "id" : "04",
+    "title" : "Internet + TV + Phone",
+    "serviceName" : "Premium Plan",
+    "serviceList" : ["Up to 1000Mbps", "250+ chanels", "WiFi router and TV Box", "Phone"],
+    "price" : "49.00"
+  }
+]
